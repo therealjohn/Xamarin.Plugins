@@ -3,7 +3,6 @@ using System.IO;
 using Database.Plugin.Abstractions;
 using SQLite;
 
-
 namespace Database.Plugin
 {
   /// <summary>

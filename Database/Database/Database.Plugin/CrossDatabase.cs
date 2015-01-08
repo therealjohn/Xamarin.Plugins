@@ -1,4 +1,4 @@
-﻿using Database.Plugin.Abstractions;
+using Database.Plugin.Abstractions;
 using System;
 
 namespace Database.Plugin

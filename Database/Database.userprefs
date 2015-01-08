@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Tests/Database.Plugin.Tests.Droid/Database.Plugin.Tests.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Android5" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tests/Database.Plugin.Tests.iOS-Classic/DatabaseTests.cs">
+    <Files>
+      <File FileName="Tests/Database.Plugin.Tests.iOS-Classic/UnitTestAppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Tests/Database.Plugin.Tests.iOS-Classic/DatabaseTests.cs" Line="30" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
